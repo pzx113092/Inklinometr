@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inklinometr</string>
+    <string name="zeruj">Zeruj</string>
+    <string name="reset">Reset</string>
+    <string name="_0_0">0.0°</string>
+    <string name="urzadzenie_nie_posiada_odpowiednich_czujnikow">Urzadzenie nie posiada odpowiednich czujnikow</string>
+    <string name="noSensors">Urządzenie nie posiada odpowiednich czujników</string>
+</resources>
