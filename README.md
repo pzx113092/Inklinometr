@@ -4,5 +4,5 @@
 
 Aplikacja mierzy nachylenie urządzenia w stopniach, z możliwością wyzerowania kąta.
 
-[Pobierz na Androida](https://github.com/pzx113092/Inklinometr/releases/download/latest/app-release.apk) (Android 10+)
+[Pobierz na Androida](https://github.com/pzx113092/Inklinometr/releases/latest/download/app-release.apk) (Android 10+)
 
